@@ -1,0 +1,5 @@
+/Users/adilsaidagali/Desktop/Programming/Class/Class/obj/x86/Debug/Class.csproj.CoreCompileInputs.cache
+/Users/adilsaidagali/Desktop/Programming/Class/Class/bin/Debug/Class.exe
+/Users/adilsaidagali/Desktop/Programming/Class/Class/bin/Debug/Class.pdb
+/Users/adilsaidagali/Desktop/Programming/Class/Class/obj/x86/Debug/Class.exe
+/Users/adilsaidagali/Desktop/Programming/Class/Class/obj/x86/Debug/Class.pdb
