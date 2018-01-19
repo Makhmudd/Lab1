@@ -1,0 +1,5 @@
+/Users/adilsaidagali/Desktop/Programming/LAB_W2/LAB_W2/bin/Debug/LAB_W2.exe
+/Users/adilsaidagali/Desktop/Programming/LAB_W2/LAB_W2/bin/Debug/LAB_W2.pdb
+/Users/adilsaidagali/Desktop/Programming/LAB_W2/LAB_W2/obj/x86/Debug/LAB_W2.csproj.CoreCompileInputs.cache
+/Users/adilsaidagali/Desktop/Programming/LAB_W2/LAB_W2/obj/x86/Debug/LAB_W2.exe
+/Users/adilsaidagali/Desktop/Programming/LAB_W2/LAB_W2/obj/x86/Debug/LAB_W2.pdb
