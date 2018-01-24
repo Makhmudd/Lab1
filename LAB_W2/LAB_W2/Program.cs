@@ -5,11 +5,12 @@ namespace LAB_W2
 {
     class MainClass
     {
+        
         public static void Main(string[] args)
         {
             StreamReader SR = new StreamReader(@"/Users/adilsaidagali/Desktop/example/input.txt");
             string s = SR.ReadLine();
-            Console.WriteLine(s);
+            // Console.WriteLine(s);
             //string x = Console.ReadLine();
             string[] x = s.Split();
             int mx = int.Parse(x[0]);
