@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{BC960698-1DB4-463B-BA33-8E424BE9FE37}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Far_manager/Program.cs">
     <Files>
-      <File FileName="Far_manager/Program.cs" Line="9" Column="8" />
+      <File FileName="Far_manager/Program.cs" Line="38" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Far__manager PreferredExecutionTarget="MonoDevelop.Default" />
