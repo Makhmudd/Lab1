@@ -1,0 +1,5 @@
+/Users/adilsaidagali/Desktop/Programming/Far_manager/Far_manager/bin/Debug/Far_manager.exe
+/Users/adilsaidagali/Desktop/Programming/Far_manager/Far_manager/bin/Debug/Far_manager.pdb
+/Users/adilsaidagali/Desktop/Programming/Far_manager/Far_manager/obj/x86/Debug/Far_manager.csproj.CoreCompileInputs.cache
+/Users/adilsaidagali/Desktop/Programming/Far_manager/Far_manager/obj/x86/Debug/Far_manager.exe
+/Users/adilsaidagali/Desktop/Programming/Far_manager/Far_manager/obj/x86/Debug/Far_manager.pdb
