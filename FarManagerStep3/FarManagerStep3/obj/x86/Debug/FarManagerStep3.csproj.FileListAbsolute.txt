@@ -1,0 +1,5 @@
+/Users/adilsaidagali/Desktop/Programming/FarManagerStep3/FarManagerStep3/bin/Debug/FarManagerStep3.exe
+/Users/adilsaidagali/Desktop/Programming/FarManagerStep3/FarManagerStep3/bin/Debug/FarManagerStep3.pdb
+/Users/adilsaidagali/Desktop/Programming/FarManagerStep3/FarManagerStep3/obj/x86/Debug/FarManagerStep3.csproj.CoreCompileInputs.cache
+/Users/adilsaidagali/Desktop/Programming/FarManagerStep3/FarManagerStep3/obj/x86/Debug/FarManagerStep3.exe
+/Users/adilsaidagali/Desktop/Programming/FarManagerStep3/FarManagerStep3/obj/x86/Debug/FarManagerStep3.pdb

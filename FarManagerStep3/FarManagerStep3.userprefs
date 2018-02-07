@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{12D00F03-1244-4042-AF7C-CB508C1A8A8B}|Default">
+  <MonoDevelop.Ide.ItemProperties.FarManagerStep3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarManagerStep3/Program.cs">
+    <Files>
+      <File FileName="../Far_manager/Far_manager/Program.cs" Line="35" Column="10" />
+      <File FileName="FarManagerStep3/Program.cs" Line="122" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
