@@ -1,0 +1,5 @@
+/Users/adilsaidagali/Desktop/Programming/Serialization/Serialization/bin/Debug/Serialization.exe
+/Users/adilsaidagali/Desktop/Programming/Serialization/Serialization/bin/Debug/Serialization.pdb
+/Users/adilsaidagali/Desktop/Programming/Serialization/Serialization/obj/x86/Debug/Serialization.csproj.CoreCompileInputs.cache
+/Users/adilsaidagali/Desktop/Programming/Serialization/Serialization/obj/x86/Debug/Serialization.exe
+/Users/adilsaidagali/Desktop/Programming/Serialization/Serialization/obj/x86/Debug/Serialization.pdb
