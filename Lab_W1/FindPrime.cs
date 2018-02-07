@@ -1,16 +1,23 @@
-﻿using System;
+using System;
 
 namespace PrimeNumbers
 {
     public static bool IsPrime (int n)
     {
-        for (int i = 0; i <= Math.Sqrt(n); i++)
+        if (n == 1)
         {
-            if (n % i == 0) return false;
+            return false;
         }
-        return true;
-    }
+        else
+        {
+            for (int i = 0; i <= Math.Sqrt(n); i++)
+            {
+                if (n % i == 0) return false;
+            }
 
+            return true;
+            
+        }
     class MainClass
     {
         public static void Main(string[] args)
