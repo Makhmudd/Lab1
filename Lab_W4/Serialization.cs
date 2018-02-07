@@ -1,7 +1,11 @@
 ﻿using System;
+using System.IO;
+using System.Collections.Generic;
+using System.Runtime.Serialization.Formatters.Binary;
 
 namespace Complex
 {
+    [Serializable]
     class Complex
     {
         public int c1, c2;
@@ -60,6 +64,9 @@ namespace Complex
     {
         public static void Main(string[] args)
         {
+            BinaryFormatter bf = new BinaryFormatter();
+            FileStream fs = new FileStream("a.txt", FileMode.OpenOrCreate, FileAccess.ReadWrite);
+
             string s = Console.ReadLine();
             string[] x = s.Split();
             int k = 0;
@@ -68,7 +75,7 @@ namespace Complex
             {
                 string[] Com = z.Split('/');
                 Complex a = new Complex(int.Parse(Com[0]), int.Parse(Com[1]));
-                if (ans.c2 == 0)
+                if (k == 0)
 
                     ans = a;
                 else
@@ -78,9 +85,24 @@ namespace Complex
                 ans.Simplify();
 
             }
+            try
+            {
+                bf.Serialize(fs, ans);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+
+            finally
+            {
+                fs.Close();
+            }
+
+
+
 
             Console.WriteLine(ans);
-
         }
     }
 }
