@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Complex
 {
@@ -68,7 +68,7 @@ namespace Complex
             {
                 string[] Com = z.Split('/');
                 Complex a = new Complex(int.Parse(Com[0]), int.Parse(Com[1]));
-                if (ans.c2 == 0)
+                if (k == 0)
 
                     ans = a;
                 else
