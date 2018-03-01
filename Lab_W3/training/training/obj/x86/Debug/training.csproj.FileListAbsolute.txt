@@ -1,0 +1,5 @@
+/Users/adilsaidagali/Desktop/Programming/Lab_W3/training/training/bin/Debug/training.exe
+/Users/adilsaidagali/Desktop/Programming/Lab_W3/training/training/bin/Debug/training.pdb
+/Users/adilsaidagali/Desktop/Programming/Lab_W3/training/training/obj/x86/Debug/training.csproj.CoreCompileInputs.cache
+/Users/adilsaidagali/Desktop/Programming/Lab_W3/training/training/obj/x86/Debug/training.exe
+/Users/adilsaidagali/Desktop/Programming/Lab_W3/training/training/obj/x86/Debug/training.pdb
