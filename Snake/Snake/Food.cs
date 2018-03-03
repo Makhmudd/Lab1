@@ -1,32 +1,54 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Snake
 {
     public class Food
     {
-        public char signn;
+        public int x, y;
+        public char sign;
         public ConsoleColor color;
-        public Point location;
 
         public Food()
         {
             color = ConsoleColor.DarkGreen;
-            signn = '@';
-            location = new Point(5, 5);
+            sign = '@';
+            int x = new Random().Next(1, 63);
+            int y = new Random().Next(1, 22);
         }
 
-        public void RandomPosition()
+
+        public void NewPosition(List<Point> body, List<Point> body1)
         {
-            int x = new Random().Next(0, Console.LargestWindowWidth - 1);
-            int y = new Random().Next(0, Console.WindowHeight - 2);
-            location = new Point(x, y);
-                                    
+            while (true)
+            {
+                bool k = false;
+                x = new Random().Next(1, 63);
+                y = new Random().Next(1, 22);
+                foreach (Point b in body)
+                {
+                    if (x == b.x && y == b.y)
+                        k = true;
+
+                }
+                foreach (Point b in body1)
+                {
+                    if (x == b.x && y == b.y)
+                        k = true;
+                }
+                if (k == false)
+                    break;
+            }    
         }
 
         public void Draw()
         {
             Console.ForegroundColor = color;
-            Console.SetCursorPosition(location.x, location.y);
-            Console.WriteLine(signn);
+            Console.SetCursorPosition(x , y);
+            Console.WriteLine(sign);
         }
     }
 }

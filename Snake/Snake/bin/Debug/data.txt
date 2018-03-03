@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Snake xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <body>
+    <Point>
+      <x>11</x>
+      <y>15</y>
+    </Point>
+    <Point>
+      <x>11</x>
+      <y>14</y>
+    </Point>
+  </body>
+  <sign>111</sign>
+  <color>DarkYellow</color>
+</Snake><?xml version="1.0"?>
+<ArrayOfInt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <int>0</int>
+  <int>1</int>
+  <int>1</int>
+</ArrayOfInt><?xml version="1.0"?>
+<Food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <x>58</x>
+  <y>20</y>
+  <sign>64</sign>
+  <color>DarkGreen</color>
+</Food>

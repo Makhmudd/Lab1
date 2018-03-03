@@ -1,5 +1,0 @@
-/Users/adilsaidagali/Desktop/Programming/Snake/Snake/obj/x86/Debug/Snake.csproj.CoreCompileInputs.cache
-/Users/adilsaidagali/Desktop/Programming/Snake/Snake/bin/Debug/Snake.exe
-/Users/adilsaidagali/Desktop/Programming/Snake/Snake/bin/Debug/Snake.pdb
-/Users/adilsaidagali/Desktop/Programming/Snake/Snake/obj/x86/Debug/Snake.exe
-/Users/adilsaidagali/Desktop/Programming/Snake/Snake/obj/x86/Debug/Snake.pdb
